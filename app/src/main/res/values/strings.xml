@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android-Project</string>
+
+    <string name="facebook_app_id">494391102469287</string>
+    <string name="fb_login_protocol_scheme">fb494391102469287</string>
+    <string name="facebook_client_token">56721bcb0a985cdb1fb585c4c53cfafd</string>
+
+
 </resources>
